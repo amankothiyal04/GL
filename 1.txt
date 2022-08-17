@@ -1,2 +1,3 @@
 this is git practical: 
-configuring git 
+configuring git
+modifications have been done 
