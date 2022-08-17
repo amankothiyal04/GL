@@ -1,3 +1,4 @@
 this is git practical: 
 configuring git
 modifications have been done 
+more modifications done
