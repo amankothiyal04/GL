@@ -1,0 +1,2 @@
+this is git practical: 
+configuring git 
